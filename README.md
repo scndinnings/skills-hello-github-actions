@@ -5,7 +5,7 @@
 
 <img src="https://octodex.github.com/images/welcometocat.png" height="200px" />
 
-### 🌟 You've successfully completed the exercise! 🌟
+### 🌟 Riaz has successfully completed the exercise! 🌟
 
 ## 🚀 Share Your Success!
 
