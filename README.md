@@ -5,7 +5,9 @@
 
 <img src="https://octodex.github.com/images/welcometocat.png" height="200px" />
 
-### 🌟 Riaz has successfully completed the exercise! 🌟
+Riyaz here. I have completed my exercise. Yes I enjoy! 💚
+
+Remember, it's self-paced so feel free to take a break! ☕️
 
 ## 🚀 Share Your Success!
 
